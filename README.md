@@ -83,8 +83,8 @@ to subscribe website
 
 to send mails when subscribe && create post
 -----------
-php artisan queue:work or php artisan queue:listen
-php artisan send:posts-email
+-php artisan queue:work or php artisan queue:listen
+-php artisan send:posts-email
 
 
 
